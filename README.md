@@ -1,3 +1,3 @@
 # Designs-and-Styles
-All the designs and styles made by CSS or other programs will be located here
+All the designs and styles made by CSS,Bootsrap or other applications will be located here
 
